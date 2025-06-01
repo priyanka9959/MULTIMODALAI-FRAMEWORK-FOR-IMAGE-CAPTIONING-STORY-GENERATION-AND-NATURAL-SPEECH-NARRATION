@@ -69,10 +69,8 @@ This project uses deep learning models to generate captions and stories from ima
 ---
 
 ## 🧑‍💻 Author
-
-**Priyanka (Pinky)**  
+Priyanka Gundeboyena  
 Final Year B.Tech in Data Science  
-Project Guide: *[If applicable]*
 
 ---
 
